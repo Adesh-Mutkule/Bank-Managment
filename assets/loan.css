@@ -1,0 +1,117 @@
+
+.navbar-nav :hover .nav-link {
+	color: rgb(110,32, 30) !important;
+}
+
+/*prev*/
+
+.work_img2{
+	height: 400px;
+	width: 100%;
+background-image: url('../images/camera.jpg');
+	background-attachment: fixed;
+	background-size:cover;
+}
+
+
+.work_bg{
+	height: 400px;
+	width: 100%;
+	background-color:rgba(0, 0, 0, 0.5);
+	}
+
+	
+
+
+.work_bg h1{
+/*	color: white;*/
+	position: relative;
+	font-weight: bold;
+	font-size: 45px;
+	top:130px;
+	left: 50px;
+}
+
+.work_bg h2{
+	position: relative;
+	font-weight: bold;
+	font-size: 20px;
+	top:160px;
+	left: 70px;
+}
+
+.box_3{
+	box-shadow: 0px 0px 5px 0px black;
+	background-color: white;
+}
+
+
+
+/*footer code*/
+.footer_logo{
+	height: 100px;
+
+}
+.bg_1{
+	background-color: #313332;
+}
+
+.menu_1{
+	list-style-type: none;
+	color: white;
+
+}
+.menu_1 li{
+margin-top: 10px;
+
+}
+
+
+.menu_1 li:hover{
+	text-decoration: underline;
+	color: skyblue;
+
+
+}
+
+
+.menu_2{
+	list-style-type: none;
+	color: white;
+
+}
+
+.menu_2 li {
+	margin-top: 10px;
+}
+.menu_2 li i{
+	font-size: 20px;
+
+}
+
+.menu_2 li:hover{
+	text-decoration: underline;
+	color: skyblue;
+
+
+}
+
+.btn_1{
+	height: 40px;
+	width: 300px;
+	background-color: white;
+	color: black;
+	border-radius: 5px;
+	font-weight: bold;
+	margin-top: 10px;
+
+
+
+}
+
+.btn_1:hover{
+	background-color: blue;
+	color: skyblue;
+
+
+}
